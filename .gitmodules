@@ -1,0 +1,6 @@
+[submodule "ejercicio_2"]
+	path = ejercicio_2
+	url = https://github.com/didilc95/ejercicio_2.git
+[submodule "test"]
+	path = test
+	url = https://github.com/didilc95/test.git
